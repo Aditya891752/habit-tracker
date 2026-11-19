@@ -1,14 +1,6 @@
 # Personal Habit & Productivity Analytics Dashboard
 6-Month Self-Improvement & Productivity Tracker built in Power BI Desktop with DAX measures and interactive visualizations.
 
-# PROJECT 1: Personal Habit & Productivity Dashboard
-
-**Resume Title:** `Personal Habit Analytics Dashboard | 6-Month Self-Improvement Tracker`
-**Tools:** Power BI Desktop, DAX
-**Dataset:** Self-generated | 182 rows × 17 columns
-
----
-
 ## STEP 1 — Load Data
 
 1. Open Power BI Desktop → **Get Data → Text/CSV**
