@@ -260,15 +260,3 @@ Add to every page (top right):
 5. Add logo box top-left: Your name + "| Personal Analytics" in white
 
 ---
-
-## Resume Description (copy-paste ready)
-
-> **Personal Habit Analytics Dashboard** | Power BI | DAX | Self-Generated Dataset
-> Built a 6-month daily habit tracker dashboard analyzing 5 wellness KPIs (sleep, study, gym, hydration, screen time) across 182 data points. Wrote 15+ DAX measures including goal achievement rates, mood correlation analysis, and streak calculations. Implemented multi-page layout with scatter plots, heatmaps, and KPI cards using dark-theme design. Revealed that days with 4+ habits completed showed 1.8x higher mood scores — a data-driven self-improvement insight.
-
----
-
-## Skills Demonstrated
-* **Data Modeling:** Power Query ETL, Date Table Generation, Time-Intelligence functions
-* **DAX Measures:** Dynamic KPI cards, Filter context manipulation, Conditional scoring
-* **Visual Design:** Dark Theme, Custom Slicers, Correlation Scatterplots, Streak tracking
